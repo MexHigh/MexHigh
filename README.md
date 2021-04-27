@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**MexHigh/MexHigh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity guy having an affair with software engineering.
 
-Here are some ideas to get you started:
+This is my age, btw _(so that I don't need to update it every year)_:
+```javascript
+( birthday => (new Date(Date.now() - birthday)).getUTCFullYear() - 1970 )( new Date("1999", "02", "13") )
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Favorite languages
+
+Go, JS (React), Python _(and everything else, that is properly documented 💙)_
+
+
+### What I'm working on
+
+| Topic                           | Description                                    | 
+|---------------------------------|------------------------------------------------|
+| Web Security                    | The perfect Content-Security-Policy            |
+| Privacy                         | Privacy in a decentralized world?              |
+| Linux Server Administration     | `$ sudo apt install -y sl && sl`               |
+| Serverless Development          | Mainly with Cloudflare Workers                 |
+| Webassembly (+Security)         | Webassembly as "Office Macros for the Browser" |
+
+
+### Very personal projects 😏
+
+I'm usually using my own Gitlab instance at https://git.leon.wtf and mirror the 'good' repos to Github.
+
+Check it out to see more Projects 😄
