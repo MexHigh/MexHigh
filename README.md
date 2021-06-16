@@ -26,6 +26,6 @@ Go, JS (React), Python _(and everything else, that is properly documented 💙)_
 
 ### Very personal projects 😏
 
-I'm usually using my own Gitlab instance at https://git.leon.wtf and mirror the 'good' repos to Github.
+I'm usually using my own Gitlab instance profile at https://git.leon.wtf/leon and mirror the 'good' repos to Github.
 
 Check it out to see more Projects 😄
