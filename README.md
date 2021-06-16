@@ -15,13 +15,13 @@ Go, JS (React), Python _(and everything else, that is properly documented 💙)_
 
 ### What I'm working on
 
-| Topic                           | Description                                    | 
-|---------------------------------|------------------------------------------------|
-| Web Security                    | The perfect Content-Security-Policy            |
-| Privacy                         | Privacy in a decentralized world?              |
-| Linux Server Administration     | `$ sudo apt install -y sl && sl`               |
-| Serverless Development          | Mainly with Cloudflare Workers                 |
-| Webassembly (+Security)         | Webassembly as "Office Macros for the Browser" |
+| Topic                           | Description                                                | 
+|---------------------------------|------------------------------------------------------------|
+| Web Security                    | The perfect Content-Security-Policy, Authentication Flows  |
+| Privacy                         | Privacy in a decentralized world?                          |
+| Linux Server Administration     | `$ sudo apt install -y sl && sl`                           |
+| Serverless Development          | Mainly with Cloudflare Workers                             |
+| Webassembly (+Security)         | Webassembly as "Office Macros for the Browser"             |
 
 
 ### Very personal projects 😏
