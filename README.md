@@ -10,7 +10,7 @@ This is my age, btw _(so that I don't need to update it every year)_:
 
 ### Favorite languages
 
-Go, JS (React), Python _(and everything else, that is properly documented 💙)_
+Go, C#, C++, JS, Python _(and everything else, that is properly documented 💙)_
 
 
 ### What I'm working on
@@ -24,7 +24,7 @@ Go, JS (React), Python _(and everything else, that is properly documented 💙)_
 | Webassembly (+Security)         | Webassembly as "Office Macros for the Browser"             |
 
 
-### Very personal projects 😏
+### Personal projects 😏
 
 I'm usually using my own Gitlab instance profile at https://git.leon.wtf/leon and mirror the 'good' repos to Github.
 
