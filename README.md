@@ -10,7 +10,7 @@ This is my age, btw _(so that I don't need to update it every year)_:
 
 ### Favorite languages
 
-Go, C#, C++, JS, Python _(and everything else, that is properly documented 💙)_
+Go, C#, JS, Python _(and everything else, that is properly documented 💙)_
 
 
 ### What I'm working on
