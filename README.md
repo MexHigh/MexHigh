@@ -2,7 +2,7 @@
 
 I'm a cybersecurity guy having an affair with software engineering.
 
-This is my age, btw _(so that I don't need to update it every year)_:
+This is my age, btw:
 ```javascript
 ( birthday => (new Date(Date.now() - birthday)).getUTCFullYear() - 1970 )( new Date("1999", "02", "13") )
 ```
@@ -10,18 +10,20 @@ This is my age, btw _(so that I don't need to update it every year)_:
 
 ### Favorite languages
 
-Go, C#, JS, Python _(and everything else, that is properly documented 💙)_
+Go, C, C#, JavaScript, Python _(and everything else, that is properly documented 💙)_
 
 
 ### What I'm working on
 
-| Topic                           | Description                                                | 
-|---------------------------------|------------------------------------------------------------|
-| Web Security                    | The perfect Content-Security-Policy, Authentication Flows  |
-| Privacy                         | Privacy in a decentralized world?                          |
-| Linux Server Administration     | `$ sudo apt install -y sl && sl`                           |
-| Serverless Development          | Mainly with Cloudflare Workers                             |
-| Webassembly (+Security)         | Webassembly as "Office Macros for the Browser"             |
+| Topic                          | Description                                                  | 
+|--------------------------------|--------------------------------------------------------------|
+| Malware development            | Building stuff to break stuff                                |
+| Web security                   | The perfect content security policy, authentication flows    |
+| Smart home                     | Embedded stuff and "real smartness" without user interaction |
+| Privacy                        | Privacy in a decentralized world?                            |
+| Linux server administration    | `$ sudo apt install -y sl && sl`                             |
+| Serverless development         | Mainly with Cloudflare Workers                               |
+| Webassembly (+security)        | Webassembly as "Office Macros for the Browser"               |
 
 
 ### Personal projects 😏
