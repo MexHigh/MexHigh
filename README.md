@@ -1,6 +1,8 @@
 # Hi there 👋
 
-I'm a cybersecurity guy having an affair with software engineering.
+I'm a cybersecurity guy having an affair with software engineering. 
+
+I also write a small blog on https://leon-schmidt.dev/ about what I learn and see during my studies and work and also maintain an [overview of my projects](https://leon-schmidt.dev/en/projects/) there (available in English and German).
 
 This is my age, btw:
 ```javascript
